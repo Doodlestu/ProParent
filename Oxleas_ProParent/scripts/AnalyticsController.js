@@ -1,4 +1,4 @@
-﻿(function () {
+(function () {
 
 
     var gaplugin,
@@ -35,7 +35,7 @@
                 function (result) {
                     console.log("PlugErrorHandler: " + result);
                 },
-                "UA-46229152-1", 10);
+                "UA-50812266-2", 10);
 
     }
 
