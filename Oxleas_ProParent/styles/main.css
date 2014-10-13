@@ -163,6 +163,14 @@ box-shadow: 0px 0px 0px #757575;
 
    margin:0px 0px 10px 20px;
 }
+.page-banner-text {
+    color: #1986c9; 
+    top:-17px;
+    position:relative;
+    font-size:1em;
+    font-weight:bolder;
+    text-shadow: 0px -1px #194b7e;
+}
 
 #tbarBackBtn {
     height:35px;
