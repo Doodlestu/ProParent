@@ -1,7 +1,7 @@
 {
   "ProjectGuid": "d5cb031a-e158-4d3b-b95b-ee6698159b3e",
   "ProjectTypeGuids": "{070BCB52-5A75-4F8C-A973-144AF0EAFCC9}",
-  "AppIdentifier": "uk.co.info_max.healthvisitor",
+  "AppIdentifier": "uk.co.info-max.healthvisitor",
   "ProjectName": "Oxleas_ProParent",
   "IsRunnable": "true",
   "FrameworkVersion": "3.2.0",
