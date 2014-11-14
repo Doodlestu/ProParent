@@ -40,7 +40,7 @@
 			</dict>
 		</dict>
 		<key>CFBundleIdentifier</key>
-		<string>uk.co.info_max.healthvisitor</string>
+		<string>uk.co.info-max.healthvisitor</string>
 		<key>CFBundleName</key>
 		<string>$ProjectName$</string>
 		<key>CFBundleDisplayName</key>
