@@ -1,7 +1,7 @@
 {
   "ProjectGuid": "d5cb031a-e158-4d3b-b95b-ee6698159b3e",
   "ProjectTypeGuids": "{070BCB52-5A75-4F8C-A973-144AF0EAFCC9}",
-  "AppIdentifier": "uk.co.info_max.healthvisitor",
+  "AppIdentifier": "uk.infomax.healthvisitor",
   "ProjectName": "Oxleas_ProParent",
   "IsRunnable": "true",
   "FrameworkVersion": "3.2.0",
@@ -39,12 +39,17 @@
     "2"
   ],
   "iOSBackgroundMode": [],
-  "AndroidVersionCode": "2",
+  "AndroidVersionCode": "3",
   "WP8Requirements": [],
   "WP8Capabilities": [],
   "WP8TileTitle": "",
   "WP8ProductID": "{d5cb031a-e158-4d3b-b95b-ee6698159b3e}",
   "WP8PublisherID": "{b469ae8b-5e11-4107-99e0-3b727dba6265}",
   "WP8Publisher": "",
-  "Framework": "Cordova"
+  "Framework": "Cordova",
+  "CordovaPluginVariables": {
+    "com.telerik.Cordova-MobileTestingExtension": {
+      "IOS_APP_URL": ""
+    }
+  }
 }
